@@ -5,4 +5,4 @@
 <br/><br/>
 Flatlist kullanarak json dosyasındaki ürünleri ekrana bastıran ve searchbar ile arama yapılabilen bir mobil uygulama.
 <br/>
-[![image](https://r.resimlink.com/9Wqk5.png)](https://resimlink.com/9Wqk5)
+[![0B54i.png](https://resmim.net/cdn/2022/08/17/0B54i.png)](https://resmim.net/i/0B54i)
